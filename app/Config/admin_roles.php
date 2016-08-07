@@ -1,0 +1,174 @@
+<?php
+
+$config = array(
+    'users'=>array(
+        0=>'add',
+        1=>'edit',
+        2=>'delete',
+        3=>'index',
+        4=>'login',
+        5=>'logout',
+        6=>'change_status',
+        7=>'view',
+        8=>'patient_details',
+        9=>'admin_dashboard',
+        10=>'admin_patient_view',
+        11=>'account_setting',
+        12=>'doctors_report',
+        13=>'view_invoice_report',
+        14=>'patients_index_for_admin',
+        15=>'check_password',
+        16=>'print_invoice_report',
+    ),
+    'services'=>array(
+        0=>'add',
+        1=>'edit',
+        3=>'delete',
+        4=>'index',
+        5=>'change_status',
+        6=>'view',
+        7 =>'doctor_services_listing'
+    ),
+    'specialties'=>array(
+        0=>'index',
+        1=>'delete',
+        2=>'edit',
+        3 =>'add',
+        4=>'get_details'
+    ),
+    'doctor_plan_details'=>array(
+        0=>'view'
+    ),
+    'doctor_packages'=>array(
+        0=>'index_pkg',
+        1=>'add_pkg',
+        2=>'edit_pkg',
+        3=>'delete',
+        4=>'view_paln_details',
+        5=>'change_status',
+        6=>'view'
+    ),
+    'reviews' => array(
+        0 => 'admin_index',
+        1 => 'edit',
+        2 => 'view',
+        3 => 'approve_disapprove',
+        4 => 'approve_disapprove_reply'
+    ),
+    'tests'=>array(
+        0=>'index',
+        1=>'add',
+        2=>'edit',
+        3=>'delete'
+    ),
+    'vital_units'=>array(
+        0=>'index',
+        1=>'add',
+        2=>'edit',
+        3=>'delete'
+    ),
+    'vital_sign_lists'=>array(
+        0=>'index',
+        1=>'add',
+        2=>'edit',
+        3=>'delete'
+    ),
+    'procedures'=>array(
+        0=>'index',
+        1=>'add',
+        2=>'edit',
+        3=>'delete'
+    ),
+    'medical_conditions'=>array(
+        0=>'index',
+        1=>'add',
+        2=>'edit',
+        3=>'delete'
+    ),
+    'keywords'=>array(
+        0=>'index',
+        1=>'add',
+        2=>'edit',
+        3=>'delete'
+    ),
+    'habits'=>array(
+        0=>'index',
+        1=>'add',
+        2=>'edit',
+        3=>'delete'
+    ),
+    'identity_types'=>array(
+        0=>'index',
+        1=>'add',
+        2=>'edit',
+        3=>'delete'
+    ),
+    'ethnicities'=>array(
+        0=>'index',
+        1=>'add',
+        2=>'edit',
+        3=>'delete'
+    ),
+    'relationships'=>array(
+        0=>'index',
+        1=>'add',
+        2=>'edit',
+        3=>'delete'
+    ),
+    'occupations'=>array(
+        0=>'index',
+        1=>'add',
+        2=>'edit',
+        3=>'delete'
+    ),
+    'communications'=>array(
+        0=>'communications_index_admin',
+        1=>'view_admin_communication',
+        2=>'compose_message'
+    ),
+    'patient_package_logs'=>array(
+        1=>'invoice_report',
+        2=>'view_invoice_report',
+    ),
+    'patient_habits'=>array(
+        1=>'patient_health_profile',
+    ),
+    'patient_plan_details'=>array(
+        1=>'patient_purchased_plans',
+        2=>'patient_view_plan',
+    ),
+    'vital_signs'=>array(
+        1=>'patient_vital_signs',
+    ),
+    'lab_test_results'=>array(
+        1=>'doctor_test_results',
+        2=>'view_test_result_byid',
+    ),
+    'medical_histories'=>array(
+        1=>'patient_medical_history',
+        2=>'get_medical_history_byid',
+    ),
+    'family_histories'=>array(
+        1=>'patient_family_histories',
+        2=>'get_family_history_byid',
+    ),
+    'diet_plans'=>array(
+        1=>'patient_diet_plan',
+        2=>'get_diet_plan_details',
+    ),
+    'treatment_histories'=>array(
+        1=>'patient_treatment',
+        2=>'get_diet_plan_details',
+    ),
+    'accounts'=>array(
+        1=>'index',
+        2=>'payment_process',
+        3=>'outstanding_invoice',
+        4=>'manage_accounts',
+    )
+);
+$config['roles'] = $config;
+?>
+
+
+        

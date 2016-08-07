@@ -1,0 +1,113 @@
+body {
+	margin:0px;
+	padding:0px;
+	font-family: 'Lato', sans-serif;
+}
+
+.form-control {
+  height: 44px;
+}
+label {
+	color:#8B8B8B;
+}
+
+/**/
+.page-title {
+	padding:0 0 15px;
+	/*border-bottom:1px #e1e1e1 solid;*/
+	margin-bottom:2px;
+}
+.page-title h1 {
+	font-size:24px;
+	margin:15px 0 0;
+}
+.page-title h1 span {
+	font-size:16px;
+	font-weight:400;
+	color:#8B8B8B;
+}
+
+.inner-addon { 
+    position: relative; 
+}
+
+/* style icon */
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+  top:5px;
+}
+
+/* align icon */
+.left-addon .glyphicon  { left:  0px;}
+.right-addon .glyphicon { right: 0px;}
+
+/* add padding  */
+.left-addon input  { padding-left:  30px; }
+.right-addon input { padding-right: 30px; }
+
+.doctor { border:1px #dedede solid; background:#f9f9f9; max-width:100%; border-radius:5px; margin:0 0 20px; position:relative; }
+
+.doctor .wrap {   }
+.t-top {
+  padding: 15px 20px;
+}
+.t-img {} 
+.t-name { vertical-align:middle; margin-bottom:3px;}
+.t-name img { vertical-align:middle; }
+.doctor-name { font-size:20px; color:#555555; font-weight:bold; vertical-align:middle; }
+.t-subject {  color:#2ea3f2; font-size:16px; font-weight:bold; margin-bottom:3px; }
+.t-education {  color:#555555; font-size:12px;  margin-bottom:3px; }
+.t-desc {  max-width:100%; font-weight:400; color:#636363; font-size:16px; font-weight:300;}
+.t-info { padding:10px;   border-top: 1px solid #dddddd;}
+.t-info ul { margin:0; padding:0; list-style:none;  }
+.t-info ul li {  color:#8b8b8b; font-size:14px; padding:0 10px; border-right:1px #dedede solid; height:16px; line-height:16px; }
+.t-info ul li.last { border:none; }
+.t-info ul li a {  color:#458bc6; text-decoration:none; }
+
+.wrap_data{word-wrap: break-word;}
+.t-subject{font-size:14px;}
+.t-desc{font-size:14px;}
+
+doc-clinic-services li {
+    box-sizing: border-box;
+    float: left;
+    margin-bottom: 9px;
+    padding-right: 15px;
+    position: relative;
+    text-overflow: ellipsis;
+    width: 50%;
+    word-wrap: break-word;
+}
+.paginator .page-link-container {
+    float: right;
+    text-align: right;
+    width: 478px;
+}
+.filters-container {
+    box-sizing: border-box;
+    font-size: 13px;
+    margin-bottom: 50px;
+    padding-right: 10px;
+    width: 200px;
+}
+
+.btn-google {
+    background-color: #dd4b39;
+    border-color: rgba(0, 0, 0, 0.2);
+    color: #fff;
+}
+.doctor a{ color:#337ab7;}
+.doctor a:focus a:hover{ color:#337ab7;}
+#feedback-data blockquote p {font-size:14px;}
+#info-data ul{padding:10px;}
+.star-like{color:#7ed321;font-size:14px;}
+.star-dislike{font-size:14px;color:#333333}
+.info-feedback-tab{margin-right:10px;}
+.info-feedback-tab a:link{color: #333333;}
+.info-feedback-tab a:hover{color:#337ab7;}
+.info-feedback-tab a:active{color:#337ab7;}
+#info-feedback-tabs{padding-bottom: 5px;}
+.book-appoinment-btn {/*width:170px;*/}
+.top-buffer { margin-top:6px;}

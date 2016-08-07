@@ -1,0 +1,41 @@
+[10-Jun-2016 17:41:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/feishlive/public_html/lib/Cake/I18n/I18n.php on line 339
+[10-Jun-2016 19:57:51 Asia/Kolkata] PHP Fatal error:  Class 'Mail' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 558
+[11-Jun-2016 02:56:56 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[13-Jun-2016 13:51:28 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[13-Jun-2016 13:51:34 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[14-Jun-2016 12:08:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method CakeEmail::IsSMTP() in /home/feishlive/public_html/app/Controller/UsersController.php on line 2003
+[14-Jun-2016 12:43:18 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 2015
+[14-Jun-2016 12:43:59 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 2015
+[14-Jun-2016 12:45:58 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 2016
+[14-Jun-2016 12:46:16 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 2016
+[14-Jun-2016 12:46:49 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 2015
+[14-Jun-2016 12:47:51 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 2015
+[14-Jun-2016 12:50:01 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 2015
+[14-Jun-2016 12:51:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method PHPMailer::SetTo() in /home/feishlive/public_html/app/Controller/UsersController.php on line 2022
+[14-Jun-2016 12:53:26 Asia/Kolkata] PHP Fatal error:  Class 'SMTP' not found in /home/feishlive/public_html/app/Vendor/PHPMailer/class.phpmailer.php on line 1466
+[14-Jun-2016 12:55:17 Asia/Kolkata] PHP Fatal error:  Class 'SMTP' not found in /home/feishlive/public_html/app/Vendor/PHPMailer/class.phpmailer.php on line 1466
+[14-Jun-2016 12:55:21 Asia/Kolkata] PHP Fatal error:  Class 'SMTP' not found in /home/feishlive/public_html/app/Vendor/PHPMailer/class.phpmailer.php on line 1466
+[14-Jun-2016 12:56:20 Asia/Kolkata] PHP Fatal error:  Class 'SMTP' not found in /home/feishlive/public_html/app/Vendor/PHPMailer/class.phpmailer.php on line 1466
+[16-Jun-2016 00:16:34 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[16-Jun-2016 14:48:09 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[17-Jun-2016 13:04:18 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[17-Jun-2016 13:04:27 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[17-Jun-2016 13:05:10 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[17-Jun-2016 13:05:12 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[17-Jun-2016 13:05:51 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[17-Jun-2016 13:08:17 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[17-Jun-2016 13:09:07 Asia/Kolkata] PHP Fatal error:  Can't use function return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 40
+[17-Jun-2016 13:10:49 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/feishlive/public_html/app/Controller/VitalSignsController.php on line 39
+[17-Jun-2016 13:14:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function debud() in /home/feishlive/public_html/app/View/VitalSigns/index.ctp on line 134
+[22-Jun-2016 13:28:37 Asia/Kolkata] PHP Fatal error:  Class 'newsletter_sub' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 2010
+[22-Jun-2016 13:38:50 Asia/Kolkata] PHP Fatal error:  Class 'newsletter_sub' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 2013
+[22-Jun-2016 13:43:49 Asia/Kolkata] PHP Fatal error:  Class 'newsletter_sub' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 2009
+[22-Jun-2016 13:46:19 Asia/Kolkata] PHP Fatal error:  Class 'newsletter_sub' not found in /home/feishlive/public_html/app/Controller/UsersController.php on line 2009
+[22-Jun-2016 14:45:48 Asia/Kolkata] PHP Fatal error:  Call to a member function from() on a non-object in /home/feishlive/public_html/app/Controller/UsersController.php on line 2014
+[04-Jul-2016 18:19:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/feishlive/public_html/app/Controller/UsersController.php on line 1967
+[04-Jul-2016 18:20:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/feishlive/public_html/app/Controller/UsersController.php on line 1967
+[04-Jul-2016 18:20:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/feishlive/public_html/app/Controller/UsersController.php on line 1967
+[04-Jul-2016 18:20:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/feishlive/public_html/app/Controller/UsersController.php on line 1967
+[04-Jul-2016 18:20:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/feishlive/public_html/app/Controller/UsersController.php on line 1967
+[04-Jul-2016 18:20:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/feishlive/public_html/app/Controller/UsersController.php on line 1967
+[04-Jul-2016 18:20:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/feishlive/public_html/app/Controller/UsersController.php on line 1967
